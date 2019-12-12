@@ -1,0 +1,17 @@
+/.gradle/
+bin/*
+*.bak
+/build/
+.classpath
+.project
+.idea/*
+out/*
+log4j.output
+MyAppLogs/
+accessLogs/
+connector/expedia-connector/.idea/
+log/
+logs/
+/.settings/
+*.log
+*.iml
